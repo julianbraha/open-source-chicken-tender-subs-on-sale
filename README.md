@@ -1,3 +1,4 @@
+
 # Chicken Tender Subs on Sale
 This is an open source copy of the Chicken Tender Subs on Sale code, with personal components (such as the key to the database) redacted from the code.
 
@@ -23,10 +24,12 @@ https://play.google.com/store/apps/details?id=com.brahapps.chickentendersubsonsa
  
 ## Photos
 ### Homepage
-https://raw.githubusercontent.com/Uclydde/open-source-chicken-tender-subs-on-sale/master/.github/images/screenshot_0.png
+<img src="https://user-images.githubusercontent.com/11775551/121289840-9df96300-c8b3-11eb-9384-d91f397debea.png" width="300">
 
-### Redirect to Purchase
-https://raw.githubusercontent.com/Uclydde/open-source-chicken-tender-subs-on-sale/master/.github/images/screenshot_1.png
 
-### The Database
-https://raw.githubusercontent.com/Uclydde/open-source-chicken-tender-subs-on-sale/master/.github/images/ctsos-firebase.png
+### Redirect to Purchase (and hopefully prevent a cease-and-desist from Publix...)
+<img src="https://user-images.githubusercontent.com/11775551/121289845-a05bbd00-c8b3-11eb-94db-7f1eb1f52519.png" width="300">
+
+
+### The Firebase Database
+![ctsos-firebase](https://user-images.githubusercontent.com/11775551/121289808-8d48ed00-c8b3-11eb-97d4-e1ca2c8ea5d4.png)
